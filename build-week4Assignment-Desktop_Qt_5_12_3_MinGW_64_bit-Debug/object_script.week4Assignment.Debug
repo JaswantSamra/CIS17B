@@ -1,0 +1,10 @@
+debug/contact.o
+debug/contactlist.o
+debug/employer.o
+debug/main.o
+debug/mainwindow.o
+debug/person.o
+debug/position.o
+debug/moc_contact.o
+debug/moc_contactlist.o
+debug/moc_mainwindow.o

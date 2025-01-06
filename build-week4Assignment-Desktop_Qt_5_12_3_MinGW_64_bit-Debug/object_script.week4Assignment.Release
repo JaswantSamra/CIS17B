@@ -1,0 +1,10 @@
+release/contact.o
+release/contactlist.o
+release/employer.o
+release/main.o
+release/mainwindow.o
+release/person.o
+release/position.o
+release/moc_contact.o
+release/moc_contactlist.o
+release/moc_mainwindow.o
